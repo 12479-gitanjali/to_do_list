@@ -3,14 +3,14 @@
 A simple and clean **To-Do List app** built with **React Native + Expo**.  
 Keep track of your tasks, mark them as complete, and set due dates.
 
-## Features
+## 🚀 Features
 
-- Add, edit, and delete tasks
-- Mark tasks as completed
-- Set due dates for tasks
-- Color-coded or emoji tags for fun and better organization
-- Local storage so your tasks persist between app restarts
-- Confetti animation for completed tasks 🎉
+- ✅ Add, edit, and delete tasks
+- 🎯 Mark tasks as completed
+- 📅 Set due dates for tasks
+- 🎨 Color-coded and emoji labels for fun organization
+- 💾 Local storage persistence
+- 🎊 Confetti celebration when tasks are completed
 
 ## Getting Started
 
