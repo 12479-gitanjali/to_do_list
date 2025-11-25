@@ -1,3 +1,29 @@
+# To-Do List App 📝
+
+A simple and clean **To-Do List app** built with **React Native + Expo**.  
+Keep track of your tasks, mark them as complete, and set due dates.
+
+## Features
+
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Set due dates for tasks
+- Color-coded or emoji tags for fun and better organization
+- Local storage so your tasks persist between app restarts
+- Confetti animation for completed tasks 🎉
+
+## Getting Started
+
+Follow these instructions to run the project locally:
+
+### Prerequisites
+
+- Node.js and npm installed
+- Expo CLI:  
+```bash
+npm install -g expo-cli
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
